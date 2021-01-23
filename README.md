@@ -1,4 +1,4 @@
-# my_app
+# Flutter TDD Example
 
 A new Flutter project.
 
